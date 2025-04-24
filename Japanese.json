@@ -206,13 +206,13 @@
   "player.setting.scaffold.refill.blocks": "Auto Refill Blocks",
   "player.setting.scaffold.refill.blocks.description": "Automatically refills your blocks in the scaffold area",
 
-  "player.setting.direct.messages": "Direct Messages",
+  "player.setting.direct.messages": "ダイレクトメッセージ",
   "player.setting.direct.messages.description": "Toggle direct messages on/off",
 
   "command.message.reply.nobody": "You don't have anyone to reply to",
   "command.message.reply.usage": "Usage: /reply <message>",
 
-  "command.message.usage": "Usage: /message <player> <message>",
+  "command.message.usage": "MESSAGEコマンドの使い方: /message <player> <message>",
   "command.message.finderror": "Could not find the player",
   "command.message.message.self": "You cannot message yourself.",
   "command.message.disabled": "You have direct messaged toggled off, enable them using /settings to use this command.",
@@ -275,7 +275,7 @@
   "gui.theme.builder.blocks.area": "アリーナブロック",
   "gui.theme.builder.blocks.layer": "Layer Blocks",
   "gui.theme.builder.blocks.pvp": "PvPアリーナのブロック",
-  "gui.theme.builder.blocks.outer": "Outer Layer Blocks",
+  "gui.theme.builder.blocks.outer": "その他のレイヤーのブロック",
 
   "gui.theme.builder.anvil.title": "Custom Block Builder",
   "gui.theme.builder.anvil.invalid.1": "Invalid Material",
